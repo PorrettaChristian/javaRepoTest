@@ -15,7 +15,7 @@ public class ProvaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        double i=2;
+        int i=0;
         while(true){
             System.out.println("hey ciao: "+i);
             i = i+i;
